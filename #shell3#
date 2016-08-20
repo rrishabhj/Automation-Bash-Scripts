@@ -1,0 +1,5 @@
+#!/bin/sh
+
+for x in dog elephant fish; do
+	echo $x
+done
