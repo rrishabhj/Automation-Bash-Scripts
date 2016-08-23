@@ -1,0 +1,8 @@
+#!/bin/sh
+
+if [ $1 = hotdog ]; then
+	echo "you typed hotdog"
+else
+	echo "you didn't type hotdog"
+	echo it was '"'$1'"'
+fi
