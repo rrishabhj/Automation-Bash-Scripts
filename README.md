@@ -1,2 +1,2 @@
-# Automation-Bash-Scripts
-Some scrips in bash and py to perform daily tassks
+# Automation-shell
+Some scrips in bash to perform daily tassks
